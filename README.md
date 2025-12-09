@@ -32,9 +32,7 @@ Mark Attendance
 | [✔]Raesham
  [✔] Hamid Ur Rehman  
   [✔] Sangita Bilawar 
-|
-|                                      |
-|            Submit                    |
+
  --------------------------------------
 
 
