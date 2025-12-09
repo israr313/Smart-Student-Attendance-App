@@ -31,7 +31,7 @@ Mark Attendance
 | [✔] Israr                        |
 | [✔]Raesham
  [✔] Hamid Ur Rehman  
-  [✔] Shenjita 
+  [✔] Sangita Bilawar 
 |
 |                                      |
 |            Submit                    |
