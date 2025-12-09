@@ -63,15 +63,6 @@ Smart-Student-Attendance-App/
 └── AndroidManifest.xml
 
 
-⚙ How to Run the Project
-1. Download or clone the repository:
-
-git clone https://github.com/your-username/Smart-Student-Attendance-App.git
-
-2. Open the project in *Android Studio*.
-3. Sync Gradle files.
-4. Run the app on an emulator or physical device.
-
 🧪 Testing
 - Functional testing on each screen
 - Database insert / retrieve testing
