@@ -27,9 +27,12 @@ Mark Attendance
  --------------------------------------
 |          MARK ATTENDANCE             |
  --------------------------------------
-| [✔] Ali Ahmed                        |
-| [✘] Sara Khan                        |
-| [✔] Bilal Hassan                     |
+| [✔] Muhammad Essa                       |
+| [✔] Israr                        |
+| [✔]Raesham
+ [✔] Hamid Ur Rehman  
+  [✔] Shenjita 
+|
 |                                      |
 |            Submit                    |
  --------------------------------------
@@ -82,5 +85,4 @@ git clone https://github.com/your-username/Smart-Student-Attendance-App.git
 - Multi-user login (Admin/Teacher)
 
 
- 📄 License
-This project is open-source and available under the MIT License.
+
